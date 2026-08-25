@@ -1,0 +1,19 @@
+{
+  "name": "actividad-6-crud-mascotas",
+  "version": "1.0.0",
+  "description": "API REST para gestionar mascotas en adopcion con Node.js y Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "crud",
+    "mascotas"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
